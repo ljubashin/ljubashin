@@ -18,7 +18,6 @@ My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, �
 
 ### Languages
 
-![github]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/-threeJS-lightgrey))]
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 ### Front-End development
