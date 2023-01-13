@@ -38,14 +38,14 @@ My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, �
 
 ---
 
-### PC Setup
+### :desktop_computer: PC Setup
 
 ![github](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![github](https://img.shields.io/badge/NVIDIA-GTX1060_3GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
-### Contact
+### :phone: Contact
 
 ---
 
-
+[![Website monip.org](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljubomir-vukadin-93125323b/)
