@@ -41,3 +41,11 @@ My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, �
 ### PC Setup
 
 ![github](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![github](https://img.shields.io/badge/NVIDIA-GTX1060_3GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+---
+
+### Contact
+
+---
+
+
