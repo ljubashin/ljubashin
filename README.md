@@ -46,6 +46,6 @@ My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, �
 
 ### :phone: Contact
 
----
-
 [![Website monip.org](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljubomir-vukadin-93125323b/)
+
+---
