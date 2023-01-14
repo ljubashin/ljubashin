@@ -40,7 +40,9 @@ My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, �
 
 ### :desktop_computer: PC Setup
 
-![github](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![github](https://img.shields.io/badge/NVIDIA-GTX1060_3GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+
+![github](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![github](https://img.shields.io/badge/NVIDIA-GTX1060_3GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 ---
 
