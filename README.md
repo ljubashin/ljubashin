@@ -6,7 +6,7 @@
 
 ---
 
-I'm Ljubomir Vukadin, a Full Stack web developer and currently a fourth year student at technical school of Silvije Strahimir Kranjčević. I'm an optimist and an open person. While working solo or within a team I give my best.
+I'm ljubashin, a Full Stack web developer. I'm an optimist and an open person. While working solo or within a team I give my best.
 
 My hobbies outside of coding are 📖 books, 🏋️‍♂️ weight-lifting, 🚴 cycling and 🎞️ video editing.  
 
